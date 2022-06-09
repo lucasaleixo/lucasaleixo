@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Lucas Aleixo</h1>
-<h3 align="center">I am a computer scientist and nerd from Brazil</h3>
+<h3 align="center">I am a computer scientist from Brazil</h3>
 
 - 🔭 I’m currently working on [A dashboard project using reactJS, nextJS and ChakraUI](https://github.com/lucasaleixo/dash-go)
 
