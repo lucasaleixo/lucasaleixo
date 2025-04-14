@@ -1,43 +1,76 @@
-<h1 align="center">Hi 👋, My name is Lucas Aleixo</h1>
-<h3 align="center">I am a computer scientist from Brazil</h3>
+# Lucas Aleixo
+### Senior Software Engineer | React | TypeScript | Next.js | Node.js | AWS | AI Integration
 
-- 🔭 I’m currently working on [A dashboard project using reactJS, nextJS and ChakraUI](https://github.com/lucasaleixo/dash-go)
+## About Me
+Senior Full-Stack Engineer with 7+ years of experience, specializing in React, TypeScript, Next.js, and Node.js. Currently making an impact at ONBOARD Mobility by revolutionizing public transportation systems that serve 100,000+ daily users. Passionate about optimizing workflows, automating processes, and creating intelligent user experiences with AI integration.
 
-- 🌱 I’m currently learning **ReactJS, NextJS, NodeJS**
+## Current Focus
+- 🔭 Building scalable transportation management systems with React, TypeScript & Node.js
+- 🌱 Developing projects with AI integration to enhance user experiences
+- 🚀 Implementing security solutions using Firebase Auth and cloud technologies
+- 💡 Exploring data visualization and analytics platforms using AWS
 
-- 👯 I’m looking to collaborate on **agregating value with technology**
+## Experience Highlights
+- Implemented TOTP-based two-factor authentication, reducing unauthorized access by 98%
+- Developed metro station management modules handling 89,000+ daily passengers
+- Built comprehensive end-to-end reporting solutions improving operational efficiency
+- Created reusable component libraries optimizing development across international markets
 
-- 👨‍💻 All of my projects are available at [https://github.com/lucasaleixo](https://github.com/lucasaleixo)
+## Tech Stack
 
-- 💬 Ask me about **Web development**
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">  
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" style="margin: 10px" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">Backend</h3>
+        <div align="center">  
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" style="margin: 10px" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">Cloud & DevOps</h3>
+        <div align="center">  
+          <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">AI & ML</h3>
+        <div align="center">  
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI API" height="50" style="margin: 10px" />&nbsp;&nbsp;&nbsp;
+          <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow.js" height="50" style="margin: 10px" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📫 How to reach me **lap15.ufpr@gmail.com**
+## 📫 Connect With Me
+- Email: [lap15.ufpr@gmail.com](mailto:lap15.ufpr@gmail.com)
+- Phone: +39 346 476 0330
+- LinkedIn: [Lucas Aleixo](https://linkedin.com/in/lucas-aleixo-a0481522b)
+- GitHub: [lucasaleixo](https://github.com/lucasaleixo)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//lucas-aleixo-a0481522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/lucas-aleixo-a0481522b" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaleixo&show_icons=true&locale=en&layout=compact" alt="lucasaleixo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasaleixo&show_icons=true&locale=en" alt="lucasaleixo" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaleixo&layout=compact&theme=tokyonight" alt="Lucas's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasaleixo&show_icons=true&theme=tokyonight" alt="Lucas's GitHub Stats" />
+</div>
