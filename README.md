@@ -2,7 +2,7 @@
 ### Senior Software Engineer | React | TypeScript | Next.js | Node.js | AWS | AI Integration
 
 ## About Me
-Senior Full-Stack Engineer with 7+ years of experience, specializing in React, TypeScript, Next.js, and Node.js. Currently making an impact at ONBOARD Mobility by revolutionizing public transportation systems that serve 100,000+ daily users. Passionate about optimizing workflows, automating processes, and creating intelligent user experiences with AI integration.
+Senior Full-Stack Engineer with 7+ years of specialized experience in React, Node.js, Next.js, JavaScript and TypeScript ecosystems. My technical expertise spans front-end excellence with React/Redux, back-end development with Node.js, and cloud infrastructure management. Passionate about building integrations that transform how people interact with technology, scaling efficiency and innovation.
 
 ## Current Focus
 - 🔭 Building scalable transportation management systems with React, TypeScript & Node.js
